@@ -4,7 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://developer.android.com/static/images/shared/pointing-1.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrudha01codespace&label=Profile%20views&color=0e75b6&style=flat" alt="samrudha01codespace" /> </p>
 
 - 🌱 I’m currently learning **DSA in Java**
