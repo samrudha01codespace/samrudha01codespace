@@ -2,7 +2,7 @@
 [![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)]
 <h1 align="center">Hi 👋, I'm Samrudha Kshirsagar</h1>
 <h3 align="center">Code enthusiast with a love for AI, ML, and DSA | Crafting Android apps with precision and passion.</h3>
-<img align="right" alt="Coding" width="400" src="[https://developer.android.com/static/images/shared/pointing-1.gif](https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif)">
+<img align="right" alt="Coding" width="400" src="[[https://developer.android.com/static/images/shared/pointing-1.gif](https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif)](https://i.pinimg.com/originals/79/51/03/795103e387b673f8762a2e92c705ce56.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrudha01codespace&label=Profile%20views&color=0e75b6&style=flat" alt="samrudha01codespace" /> </p>
