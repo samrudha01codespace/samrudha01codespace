@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA in Java**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/samrudha-kshirsagar-5aa89128a](www.linkedin.com/in/samrudha-kshirsagar-5aa89128a)
+- 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/samrudha-kshirsagar-5aa89128a/).
 
 - 💬 Ask me about **Android**
 
