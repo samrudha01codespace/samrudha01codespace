@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrudha01codespace&label=Profile%20views&color=0e75b6&style=flat" alt="samrudha01codespace" /> </p>
 
-- 🌱 I’m currently learning **DSA in Java**
+- 🌱 I’m currently learning **DSA in Python**
 
 - 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/samrudha-kshirsagar-5aa89128a/) and [Github](https://github.com/samrudha01codespace).
 
