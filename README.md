@@ -29,3 +29,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samrudha01codespace&show_icons=true&locale=en" alt="samrudha01codespace" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrudha01codespace&" alt="samrudha01codespace" /></p>
+
+
+<h3 align="left">📊 Most Used Languages</h3>
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrudha01codespace&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
