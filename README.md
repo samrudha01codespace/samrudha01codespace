@@ -35,7 +35,7 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrudha01codespace&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=samrudha01codespace"
     alt="Most Used Languages"
   />
 </p>
