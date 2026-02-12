@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" width="100%"/>
 </p>
 
-<h1 align="center">⚡ Samrudha Kshirsagar ⚡</h1>
+<h1 align="center">Samrudha Kshirsagar</h1>
 
 <h3 align="center">
 Android Engineer • Systems Thinker • AI-Oriented Builder  
