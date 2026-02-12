@@ -42,7 +42,7 @@ Android Engineer • Systems Thinker • AI-Oriented Builder
 
 - ⚙️ **System-Level Architecture**  
   Exploring low-level system design including:
-  - **Bootloaders (GRUB)**
+  - **Bootloaders (LIMINE)**
   - **Driver interfaces**
   - **Hardware Abstraction Layers (HAL)**
   
