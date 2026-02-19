@@ -46,7 +46,7 @@
 
 ---
 
-## ⚡ THE STARK BRIEF
+## ⚡ THE SAM BRIEF
 
 > I don't just build apps.  
 > I architect execution engines, design operating systems from scratch, and push hardware to its absolute limits —  
