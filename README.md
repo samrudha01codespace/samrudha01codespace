@@ -11,29 +11,70 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██████╗  ██████╗  ██████╗ ████████╗    ██╗   ██╗██████╗           ║
-║   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ██║   ██║╚════██╗          ║
-║   ██████╔╝██║   ██║██║   ██║   ██║       ██║   ██║ █████╔╝          ║
-║   ██╔══██╗██║   ██║██║   ██║   ██║       ╚██╗ ██╔╝ ╚═══██╗          ║
-║   ██████╔╝╚██████╔╝╚██████╔╝   ██║        ╚████╔╝ ██████╔╝          ║
-║   ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝         ╚═══╝  ╚═════╝           ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   CORE SYSTEMS    [ Android · Rust Kernel · AI/ML · Bare Metal ]    ║
-║   ARCH PATTERN    [ Clean · MVVM · no_std · On-Device Inference ]   ║
-║   CURRENT OP      [ Building an OS most engineers can't READ  ]     ║
-║   PHILOSOPHY      [ Ship or be shipped. Build or be built. ]        ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   "Most engineers configure tools.                                   ║
-║    I write the tools they configure."                                ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#0D1117', 'primaryTextColor': '#00f5ff', 'primaryBorderColor': '#00f5ff', 'lineColor': '#00f5ff', 'secondaryColor': '#0D1117', 'tertiaryColor': '#0D1117', 'edgeLabelBackground': '#0D1117', 'clusterBkg': '#0a0a0f', 'titleColor': '#00f5ff', 'nodeTextColor': '#ffffff'}}}%%
+
+flowchart TD
+    CORE(["SAMRUDHA KSHIRSAGAR
+    ─────────────────────────────
+    System Designer · Architect
+    ─────────────────────────────
+    I don't use the tools.
+    I write the tools they use."])
+
+    CORE --> STACK
+
+    STACK(["CORE STACK
+    ──────────────────────
+    Kotlin · Rust · Python
+    PyTorch · no_std · Linux"])
+
+    STACK --> OS
+    STACK --> ANDROID
+    STACK --> AI
+
+    OS(["OS KERNEL
+    ══════════════════
+    Bare Metal x86_64
+    LIMINE Bootloader
+    Custom Allocator
+    Interrupt Handler
+    Syscall Interface"])
+
+    ANDROID(["ANDROID SYSTEMS
+    ══════════════════════
+    Clean Architecture
+    Jetpack Compose
+    MVVM · Coroutines
+    TFLite On-Device
+    Firebase · Keystore"])
+
+    AI(["AI PIPELINE
+    ══════════════════
+    PyTorch Training
+    OpenCV Vision
+    ONNX Pipeline
+    Edge Inference
+    No Cloud. Ever."])
+
+    OS --> MISSION
+    ANDROID --> MISSION
+    AI --> MISSION
+
+    MISSION(["MISSION
+    ──────────────────────────────────
+    Systems that think · OSes that run
+    Apps that scale · Models that ship
+    ──────────────────────────────────
+    Ship or be shipped.
+    Build or be built."])
+
+    style CORE fill:#001a2e,color:#00f5ff,stroke:#00f5ff,stroke-width:3px
+    style STACK fill:#0a0a0f,color:#aaaaaa,stroke:#333333,stroke-width:1px
+    style OS fill:#0d0500,color:#ffffff,stroke:#ff6b35,stroke-width:2px
+    style ANDROID fill:#0a0015,color:#ffffff,stroke:#7F52FF,stroke-width:2px
+    style AI fill:#0d0900,color:#ffffff,stroke:#FF6F00,stroke-width:2px
+    style MISSION fill:#001a0a,color:#00f5ff,stroke:#00ff88,stroke-width:3px
 ```
 
 </div>
