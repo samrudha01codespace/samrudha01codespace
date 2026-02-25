@@ -247,7 +247,11 @@ Full pipeline from model training to on-device deployment. Inference at the edge
 ---
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=samrudha01codespace&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrudha01codespace&theme=tokyonight" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samrudha01codespace&theme=tokyonight" width="49%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samrudha01codespace&theme=tokyonight" width="49%"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samrudha01codespace&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff" width="100%"/>
 </div>
 
 ---
