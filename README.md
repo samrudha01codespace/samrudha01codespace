@@ -83,24 +83,32 @@ The standard isn't *working*. The standard is **correct, fast, and maintainable*
 <br/>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#0D1117', 'primaryTextColor': '#00B4D8', 'primaryBorderColor': '#1a3a4a', 'lineColor': '#2a5a6a', 'secondaryColor': '#0a1520', 'tertiaryColor': '#0a1520', 'nodeTextColor': '#cdd6f4', 'edgeLabelBackground': '#0D1117', 'clusterBkg': '#0a1520', 'titleColor': '#00B4D8', 'fontFamily': 'monospace'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#000d1a', 'primaryTextColor': '#00f0ff', 'primaryBorderColor': '#00f0ff', 'lineColor': '#00f0ff', 'secondaryColor': '#000d1a', 'tertiaryColor': '#000d1a', 'nodeTextColor': '#00f0ff', 'edgeLabelBackground': '#000d1a', 'clusterBkg': '#000d1a', 'titleColor': '#00f0ff', 'fontFamily': 'monospace'}}}%%
 
 graph LR
     SK(["SK"])
 
-    SK --> OS["OS KERNEL\nRust · no_std\nx86_64 bare metal"]
-    SK --> AND["ANDROID\nKotlin · Compose\nClean Arch · MVVM"]
-    SK --> AI["AI PIPELINE\nPyTorch · ONNX\nEdge Inference"]
+    SK -->|"KERNEL"| OS["OS KERNEL
+    Rust · no_std
+    x86_64 · bare metal"]
+    SK -->|"MOBILE"| AND["ANDROID
+    Kotlin · Compose
+    Clean Arch · MVVM"]
+    SK -->|"INFERENCE"| AI["AI PIPELINE
+    PyTorch · ONNX
+    Edge · No Cloud"]
 
-    OS --> OUT(["Ship systems\nthat outlast\nthe hype."])
-    AND --> OUT
-    AI --> OUT
+    OS -->|"COMPILE"| OUT(["MISSION
+    Systems that think.
+    Models that ship."])
+    AND -->|"DEPLOY"| OUT
+    AI -->|"INFER"| OUT
 
-    style SK fill:#001824,color:#00B4D8,stroke:#00B4D8,stroke-width:2px
-    style OS fill:#0D1117,color:#cdd6f4,stroke:#1a3a4a,stroke-width:1px
-    style AND fill:#0D1117,color:#cdd6f4,stroke:#1a3a4a,stroke-width:1px
-    style AI fill:#0D1117,color:#cdd6f4,stroke:#1a3a4a,stroke-width:1px
-    style OUT fill:#001824,color:#00B4D8,stroke:#00B4D8,stroke-width:2px
+    style SK fill:#000d1a,color:#00f0ff,stroke:#00f0ff,stroke-width:2px
+    style OS fill:#00060f,color:#00f0ff,stroke:#005f7a,stroke-width:1.5px
+    style AND fill:#00060f,color:#00f0ff,stroke:#005f7a,stroke-width:1.5px
+    style AI fill:#00060f,color:#00f0ff,stroke:#005f7a,stroke-width:1.5px
+    style OUT fill:#000d1a,color:#00f0ff,stroke:#00f0ff,stroke-width:2px
 ```
 
 <br/>
