@@ -82,7 +82,7 @@ flowchart TD
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%22I+build+systems+that+think%2C+not+just+run.%22;Android+%E2%80%A2+Rust+OS+%E2%80%A2+AI+%E2%80%A2+Bare+Metal+%E2%80%A2+Low-Level+Systems" alt="Typing SVG" />
+  <img src="./circuit_banner.gif" alt="Banner" width="680"/>
 </div>
 
 ---
