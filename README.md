@@ -5,84 +5,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,2,5,30&text=SAMRUDHA%20KSHIRSAGAR&fontSize=46&fontColor=00f5ff&stroke=00f5ff&strokeWidth=1.5&animation=fadeIn&fontAlignY=52&desc=%5B%20ANDROID%20ARCHITECT%20%E2%80%A2%20SYSTEMS%20ENGINEER%20%E2%80%A2%20AI%20BUILDER%20%5D&descSize=15&descAlignY=72&descColor=aaaaaa" width="100%"/>
+<img src="./assets/iso-hero.svg" alt="SAMRUDHA KSHIRSAGAR — [ ANDROID ARCHITECT • SYSTEMS ENGINEER • AI BUILDER ]" width="100%"/>
 
 </div>
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#0D1117', 'primaryTextColor': '#00f5ff', 'primaryBorderColor': '#00f5ff', 'lineColor': '#00f5ff', 'secondaryColor': '#0D1117', 'tertiaryColor': '#0D1117', 'edgeLabelBackground': '#0D1117', 'clusterBkg': '#0a0a0f', 'titleColor': '#00f5ff', 'nodeTextColor': '#ffffff'}}}%%
+<img src="./assets/iso-stack.svg" alt="Isometric stack diagram: CORE STACK feeding OS KERNEL, ANDROID SYSTEMS and AI PIPELINE toward the MISSION" width="100%"/>
 
-flowchart TD
-    CORE(["SAMRUDHA KSHIRSAGAR
-    ─────────────────────────────
-    System Designer · Architect
-    ─────────────────────────────
-    I don't use the tools.
-    I write the tools they use."])
-
-    CORE --> STACK
-
-    STACK(["CORE STACK
-    ──────────────────────
-    Kotlin · Rust · Python
-    PyTorch · no_std · Linux"])
-
-    STACK --> OS
-    STACK --> ANDROID
-    STACK --> AI
-
-    OS(["OS KERNEL
-    ══════════════════
-    Bare Metal x86_64
-    LIMINE Bootloader
-    Custom Allocator
-    Interrupt Handler
-    Syscall Interface"])
-
-    ANDROID(["ANDROID SYSTEMS
-    ══════════════════════
-    Clean Architecture
-    Jetpack Compose
-    MVVM · Coroutines
-    TFLite On-Device
-    Firebase · Keystore"])
-
-    AI(["AI PIPELINE
-    ══════════════════
-    PyTorch Training
-    OpenCV Vision
-    ONNX Pipeline
-    Edge Inference
-    No Cloud. Ever."])
-
-    OS --> MISSION
-    ANDROID --> MISSION
-    AI --> MISSION
-
-    MISSION(["MISSION
-    ──────────────────────────────────
-    Systems that think · OSes that run
-    Apps that scale · Models that ship
-    ──────────────────────────────────
-    Ship or be shipped.
-    Build or be built."])
-
-    style CORE fill:#001a2e,color:#00f5ff,stroke:#00f5ff,stroke-width:3px
-    style STACK fill:#0a0a0f,color:#aaaaaa,stroke:#333333,stroke-width:1px
-    style OS fill:#0d0500,color:#ffffff,stroke:#ff6b35,stroke-width:2px
-    style ANDROID fill:#0a0015,color:#ffffff,stroke:#7F52FF,stroke-width:2px
-    style AI fill:#0d0900,color:#ffffff,stroke:#FF6F00,stroke-width:2px
-    style MISSION fill:#001a0a,color:#00f5ff,stroke:#00ff88,stroke-width:3px
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./circuit_banner.gif" alt="Banner" width="680"/>
 </div>
 
 ---
@@ -95,7 +25,7 @@ flowchart TD
 >
 > **If Tony Stark wrote Android apps and built kernels in Rust, this would be his GitHub.**
 
----
+<div align="center"><img src="./assets/iso-divider.svg" alt="" width="100%"/></div>
 
 ## 🔬 ACTIVE RESEARCH PROTOCOLS
 
@@ -189,7 +119,7 @@ Production-grade Android architecture:
 
 </div>
 
----
+<div align="center"><img src="./assets/iso-divider.svg" alt="" width="100%"/></div>
 
 ## 📊 COMBAT STATISTICS
 
@@ -288,9 +218,9 @@ Full pipeline from model training to on-device deployment. Inference at the edge
 ---
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrudha01codespace&theme=tokyonight" width="100%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samrudha01codespace&theme=tokyonight" width="49%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samrudha01codespace&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrudha01codespace&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samrudha01codespace&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samrudha01codespace&theme=tokyonight" width="49%"/>
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samrudha01codespace&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff" width="100%"/>
 </div>
@@ -317,7 +247,7 @@ Full pipeline from model training to on-device deployment. Inference at the edge
 
 </div>
 
----
+<div align="center"><img src="./assets/iso-divider.svg" alt="" width="100%"/></div>
 
 <div align="center">
 

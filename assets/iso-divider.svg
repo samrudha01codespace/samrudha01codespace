@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" role="img" aria-label="Section divider">
+<title>Isometric divider</title>
+<defs>
+  <style>
+    .sans { font-family: 'Segoe UI',-apple-system,BlinkMacSystemFont,'Inter',system-ui,'Helvetica Neue',Arial,sans-serif; }
+    .mono { font-family: ui-monospace,'SF Mono','Cascadia Mono','JetBrains Mono',Menlo,Consolas,monospace; }
+  </style>
+  <filter id="glowCyan" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glowSoft" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="8" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <radialGradient id="haloCyan"><stop offset="0%" stop-color="#00f5ff" stop-opacity="0.55"/><stop offset="100%" stop-color="#00f5ff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="haloOrange"><stop offset="0%" stop-color="#ff6b35" stop-opacity="0.5"/><stop offset="100%" stop-color="#ff6b35" stop-opacity="0"/></radialGradient>
+  <radialGradient id="haloViolet"><stop offset="0%" stop-color="#7F52FF" stop-opacity="0.5"/><stop offset="100%" stop-color="#7F52FF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="haloAmber"><stop offset="0%" stop-color="#FF6F00" stop-opacity="0.5"/><stop offset="100%" stop-color="#FF6F00" stop-opacity="0"/></radialGradient>
+  <radialGradient id="haloGreen"><stop offset="0%" stop-color="#00ff88" stop-opacity="0.5"/><stop offset="100%" stop-color="#00ff88" stop-opacity="0"/></radialGradient>
+  
+  <linearGradient id="divFade" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0">
+    <stop offset="0%" stop-color="#4d5560" stop-opacity="0"/>
+    <stop offset="28%" stop-color="#6e7681" stop-opacity="1"/>
+    <stop offset="72%" stop-color="#6e7681" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#4d5560" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<line x1="40" y1="24" x2="1160" y2="24" stroke="url(#divFade)" stroke-width="2"/>
+<g opacity="1.0"><polygon points="543.01,17.0 556.0,24.5 556.0,39.5 543.01,32.0" fill="#041a20" stroke="#00f5ff" stroke-width="1.5" stroke-linejoin="round"/><polygon points="556.0,24.5 568.99,17.0 568.99,32.0 556.0,39.5" fill="#062a33" stroke="#00f5ff" stroke-width="1.5" stroke-linejoin="round"/><polygon points="556.0,9.5 568.99,17.0 556.0,24.5 543.01,17.0" fill="#516a70" stroke="#00f5ff" stroke-width="1.5" stroke-linejoin="round"/></g>
+<g opacity="1.0"><polygon points="587.01,13.0 600.0,20.5 600.0,35.5 587.01,28.0" fill="#1a0902" stroke="#ff6b35" stroke-width="1.5" stroke-linejoin="round"/><polygon points="600.0,20.5 612.99,13.0 612.99,28.0 600.0,35.5" fill="#2a0f04" stroke="#ff6b35" stroke-width="1.5" stroke-linejoin="round"/><polygon points="600.0,5.5 612.99,13.0 600.0,20.5 587.01,13.0" fill="#6a574f" stroke="#ff6b35" stroke-width="1.5" stroke-linejoin="round"/></g>
+<g opacity="1.0"><polygon points="631.01,17.0 644.0,24.5 644.0,39.5 631.01,32.0" fill="#0d0620" stroke="#7F52FF" stroke-width="1.5" stroke-linejoin="round"/><polygon points="644.0,24.5 656.99,17.0 656.99,32.0 644.0,39.5" fill="#150a33" stroke="#7F52FF" stroke-width="1.5" stroke-linejoin="round"/><polygon points="644.0,9.5 656.99,17.0 644.0,24.5 631.01,17.0" fill="#5b5470" stroke="#7F52FF" stroke-width="1.5" stroke-linejoin="round"/></g>
+</svg>
